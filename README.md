@@ -9,7 +9,7 @@ This is my first c++ project and im sure theres several issues and better ways o
 
 1. Clone this repo
 2. Choose which platform to build for (x86 or x64)
-3. BBuild and launch the program
+3. Build and launch the program
 4. The program will prompt you for the path to your DLL and either the process ID or process name.
 5. The program will run some check to make sure things are correct and then inject your DLL
 
