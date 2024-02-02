@@ -1,7 +1,6 @@
 # Manual Mapping DLL Injector
 
-This is a manual mapping DLL injector written in c++
-Not much but it works. The injector can be compiled for both 64-bit and 32-bit architectures, depending on your requirements.
+This is a manual mapping DLL injector written in c++. Its not much but it works. The injector can be compiled for both 64-bit and 32-bit architectures, depending on your requirements.
 I build it to allow me to have a faster way to test my DLL while writing them rather then using cheat engine
 
 This is my first c++ project and im sure theres several issues and better ways of doing things so if you have a suggestion please feel free to tell me
