@@ -14,9 +14,9 @@ This is my first c++ project and im sure theres several issues and better ways o
 5. The program will run some check to make sure things are correct and then inject your DLL
 
 ## Todo
-Ensure all errors are handled gracefully.
-Do some cleanup and organisation.
-Implement any possible improvements.
-Consider adding a GUI at some point
+- Ensure all errors are handled gracefully.
+- Do some cleanup and organisation.
+- Implement any possible improvements.
+- Consider adding a GUI at some point
 
 Feel free to contribute, report issues, or suggest enhancements. Your input is highly appreciated!
